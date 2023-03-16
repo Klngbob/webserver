@@ -1,0 +1,226 @@
+2023-03-14 11:08:54.267326 [info]: Web Server Start!
+2023-03-14 11:08:57.802702 [info]: Do request: url = /index.html
+2023-03-14 11:08:58.956966 [info]: Do request: url = /1
+2023-03-14 11:16:55.082453 [info]: Web Server Start!
+2023-03-14 11:17:05.083448 [info]: Timed out
+
+2023-03-14 11:17:05.084087 [info]: SIGALRM reach here
+
+2023-03-14 11:17:06.488151 [info]: Do request: url = /index.html
+2023-03-14 11:17:06.488825 [info]: Adjust timer once
+2023-03-14 11:17:08.044992 [info]: Do request: url = /1
+2023-03-14 11:17:08.045889 [info]: Adjust timer once
+2023-03-14 11:17:09.073904 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:17:09.077991 [info]: Adjust timer once
+2023-03-14 11:17:15.084978 [info]: Timed out
+
+2023-03-14 11:17:15.085199 [info]: SIGALRM reach here
+
+2023-03-14 11:17:15.085264 [info]: timer tick
+
+2023-03-14 11:17:25.086121 [info]: Timed out
+
+2023-03-14 11:17:25.086283 [info]: SIGALRM reach here
+
+2023-03-14 11:17:25.086292 [info]: timer tick
+
+2023-03-14 11:23:17.910033 [info]: Web Server Start!
+2023-03-14 11:23:24.136689 [info]: Do request: url = /index.html
+2023-03-14 11:23:24.137144 [info]: Adjust timer once
+2023-03-14 11:23:25.469696 [info]: Do request: url = /1
+2023-03-14 11:23:25.470043 [info]: Adjust timer once
+2023-03-14 11:23:26.626486 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:23:26.629487 [info]: Adjust timer once
+2023-03-14 11:23:27.910711 [info]: Timed out
+2023-03-14 11:23:27.910791 [info]: SIGALRM reach here
+2023-03-14 11:23:27.910797 [info]: timer tick
+2023-03-14 11:28:49.828743 [info]: ----------------Web Server Start!----------------
+2023-03-14 11:28:57.166388 [info]: Do request: url = /index.html
+2023-03-14 11:28:57.166687 [info]: Adjust timer once
+2023-03-14 11:28:58.361748 [info]: Do request: url = /1
+2023-03-14 11:28:58.362326 [info]: Adjust timer once
+2023-03-14 11:28:59.255795 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:28:59.259598 [info]: 父进程等待子进程结果
+2023-03-14 11:28:59.259834 [info]: Adjust timer once
+2023-03-14 11:28:59.829119 [info]: Timed out
+2023-03-14 11:28:59.829219 [info]: SIGALRM reach here
+2023-03-14 11:28:59.829251 [info]: timer tick
+2023-03-14 11:33:52.146478 [info]: ----------------Web Server Start!----------------
+2023-03-14 11:33:56.266858 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:33:56.267208 [info]: Adjust timer once
+2023-03-14 11:34:00.017033 [info]: Do request: url = /index.html
+2023-03-14 11:34:00.017363 [info]: Adjust timer once
+2023-03-14 11:34:02.147306 [info]: SIGALRM reach here
+2023-03-14 11:34:02.147410 [info]: Timed out
+2023-03-14 11:34:02.147417 [info]: timer tick
+2023-03-14 11:34:02.344832 [info]: Do request: url = /1
+2023-03-14 11:34:02.346128 [info]: Adjust timer once
+2023-03-14 11:34:03.217045 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:34:03.219603 [info]: 父进程等待子进程结果
+2023-03-14 11:35:49.065001 [info]: ----------------Web Server Start!----------------
+2023-03-14 11:35:53.002681 [info]: Do request: url = /index.html
+2023-03-14 11:35:53.003316 [info]: Adjust timer once
+2023-03-14 11:35:54.032248 [info]: Do request: url = /1
+2023-03-14 11:35:54.032496 [info]: Adjust timer once
+2023-03-14 11:35:54.851280 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:35:54.851280 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:35:54.857353 [info]: 父进程等待子进程结果
+2023-03-14 11:35:54.858788 [info]: Adjust timer once
+2023-03-14 11:35:59.065743 [info]: SIGALRM reach here
+2023-03-14 11:35:59.065847 [info]: Timed out
+2023-03-14 11:35:59.065854 [info]: timer tick
+2023-03-14 11:38:13.873066 [info]: ----------------Web Server Start!----------------
+2023-03-14 11:38:16.946991 [info]: Do request: url = /index.html
+2023-03-14 11:38:16.947387 [info]: Adjust timer once
+2023-03-14 11:38:18.179683 [info]: Do request: url = /1
+2023-03-14 11:38:18.180003 [info]: Adjust timer once
+2023-03-14 11:38:19.210172 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:38:19.214521 [info]: 父进程等待子进程结果
+2023-03-14 11:38:19.215175 [info]: Adjust timer once
+2023-03-14 11:38:23.874441 [info]: SIGALRM reach here
+2023-03-14 11:38:23.874536 [info]: Timed out
+2023-03-14 11:38:23.874544 [info]: timer tick
+2023-03-14 11:39:18.233365 [info]: ----------------Web Server Start!----------------
+2023-03-14 11:39:21.865657 [info]: Do request: url = /index.html
+2023-03-14 11:39:21.866224 [info]: Adjust timer once
+2023-03-14 11:39:22.968581 [info]: Do request: url = /1
+2023-03-14 11:39:22.969203 [info]: Adjust timer once
+2023-03-14 11:39:23.996631 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:39:23.996631 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 11:39:24.000149 [info]: 父进程等待子进程结果
+2023-03-14 14:03:35.225742 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:03:45.227470 [info]: SIGALRM reach here
+2023-03-14 14:03:45.228574 [info]: Timed out
+2023-03-14 14:03:47.410385 [info]: Do request: url = /index.html
+2023-03-14 14:03:47.411593 [info]: Adjust timer once
+2023-03-14 14:03:51.070789 [info]: Do request: url = /1
+2023-03-14 14:03:51.071584 [info]: Adjust timer once
+2023-03-14 14:03:51.855166 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 14:03:51.855299 [info]: 开始登录校验，m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/config/www/htmlCGISQL.cgi
+2023-03-14 14:03:51.855166 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 14:03:51.855299 [info]: 开始登录校验，m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/config/www/htmlCGISQL.cgi
+2023-03-14 14:03:51.931628 [info]: 父进程等待子进程结果
+2023-03-14 14:03:51.935603 [info]: Adjust timer once
+2023-03-14 14:03:55.229921 [info]: SIGALRM reach here
+2023-03-14 14:03:55.230074 [info]: Timed out
+2023-03-14 14:03:55.230086 [info]: timer tick
+2023-03-14 14:04:05.230527 [info]: SIGALRM reach here
+2023-03-14 14:04:05.230620 [info]: Timed out
+2023-03-14 14:04:05.230626 [info]: timer tick
+2023-03-14 14:04:15.232070 [info]: SIGALRM reach here
+2023-03-14 14:04:15.232219 [info]: Timed out
+2023-03-14 14:04:15.232227 [info]: timer tick
+2023-03-14 14:04:25.232849 [info]: SIGALRM reach here
+2023-03-14 14:07:48.162140 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:07:52.075485 [info]: Do request: url = /index.html
+2023-03-14 14:07:52.075743 [info]: Adjust timer once
+2023-03-14 14:07:53.444696 [info]: Do request: url = /1
+2023-03-14 14:07:53.444980 [info]: Adjust timer once
+2023-03-14 14:07:54.334906 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 14:07:54.335030 [info]: 开始登录校验，m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/config/www/html/CGISQL.cgi
+2023-03-14 14:07:54.338722 [info]: 父进程等待子进程结果
+2023-03-14 14:07:58.163623 [info]: SIGALRM reach here
+2023-03-14 14:07:58.163721 [info]: Timed out
+2023-03-14 14:07:58.163728 [info]: timer tick
+2023-03-14 14:08:08.164278 [info]: SIGALRM reach here
+2023-03-14 14:08:08.164398 [info]: Timed out
+2023-03-14 14:08:08.164406 [info]: timer tick
+2023-03-14 14:08:18.165283 [info]: SIGALRM reach here
+2023-03-14 14:08:18.165389 [info]: Timed out
+2023-03-14 14:08:18.165397 [info]: timer tick
+2023-03-14 14:08:28.166941 [info]: SIGALRM reach here
+2023-03-14 14:08:28.167049 [info]: Timed out
+2023-03-14 14:08:28.167057 [info]: timer tick
+2023-03-14 14:14:42.963858 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:14:57.903441 [info]: SIGALRM reach here
+2023-03-14 14:14:57.903812 [info]: Timed out
+2023-03-14 14:14:57.903821 [info]: timer tick
+2023-03-14 14:15:28.409238 [info]: SIGALRM reach here
+2023-03-14 14:15:28.409400 [info]: Timed out
+2023-03-14 14:15:28.409407 [info]: timer tick
+2023-03-14 14:15:48.243684 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:16:13.685299 [info]: SIGALRM reach here
+2023-03-14 14:16:13.685393 [info]: Timed out
+2023-03-14 14:16:13.685399 [info]: timer tick
+2023-03-14 14:16:22.063108 [info]: Do request: url = /index.html
+2023-03-14 14:16:36.890567 [info]: Adjust timer once
+2023-03-14 14:16:54.896453 [info]: SIGALRM reach here
+2023-03-14 14:16:54.896485 [info]: Timed out
+2023-03-14 14:16:56.133316 [info]: timer tick
+2023-03-14 14:17:03.254444 [info]: Do request: url = /1
+2023-03-14 14:17:11.204344 [info]: Adjust timer once
+2023-03-14 14:17:29.610869 [info]: SIGALRM reach here
+2023-03-14 14:17:30.754153 [info]: Timed out
+2023-03-14 14:18:54.774657 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:19:22.926591 [info]: SIGALRM reach here
+2023-03-14 14:19:25.273052 [info]: Timed out
+2023-03-14 14:19:25.273072 [info]: timer tick
+2023-03-14 14:19:25.273635 [info]: Do request: url = /index.html
+2023-03-14 14:19:36.250285 [info]: Adjust timer once
+2023-03-14 14:19:52.920762 [info]: SIGALRM reach here
+2023-03-14 14:19:53.341246 [info]: Timed out
+2023-03-14 14:20:02.539696 [info]: timer tick
+2023-03-14 14:22:52.991208 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:23:38.586582 [info]: Do request: url = /1
+2023-03-14 14:23:54.818044 [info]: Adjust timer once
+2023-03-14 14:24:23.993001 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 14:24:23.993030 [info]: 开始登录校验，m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/config/www/html/CGISQL.cgi
+2023-03-14 14:24:23.997033 [info]: 父进程等待子进程结果
+2023-03-14 14:24:24.404900 [error]: 管道read error: ret=0
+2023-03-14 14:29:00.601370 [info]: ----------------Web Server Start!----------------
+2023-03-14 14:29:04.070172 [info]: Do request: url = /2
+2023-03-14 14:29:04.070827 [info]: Adjust timer once
+2023-03-14 14:29:06.670388 [info]: Do request: url = /1
+2023-03-14 14:29:06.671293 [info]: Adjust timer once
+2023-03-14 14:29:08.057267 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 14:29:08.057800 [info]: verify flag is 2
+2023-03-14 14:29:08.057855 [info]: 开始登录校验, m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/config/www/html/CGISQL.cgi
+2023-03-14 14:29:08.061457 [info]: 父进程等待子进程结果
+2023-03-14 21:52:36.248128 [error]: MySQL Error
+2023-03-14 21:53:49.794427 [error]: MySQL Error
+2023-03-14 21:56:15.001909 [info]: ----------------Web Server Start!----------------
+2023-03-14 21:56:15.015216 [info]: ----------------Web Server ended----------------
+2023-03-14 21:59:49.089254 [info]: ----------------Web Server Start!----------------
+2023-03-14 22:01:37.486610 [info]: SIGALRM reach here
+2023-03-14 22:01:37.486776 [info]: Timed out
+2023-03-14 22:01:37.486783 [info]: timer tick
+2023-03-14 22:01:46.062478 [info]: Do request: url = /index.html
+2023-03-14 22:01:52.249005 [info]: Adjust timer once
+2023-03-14 22:01:54.572948 [error]: Event Error close 18
+2023-03-14 22:02:21.805502 [info]: Do request: url = /1
+2023-03-14 22:02:25.918070 [info]: Adjust timer once
+2023-03-14 22:02:54.804360 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 22:02:54.804460 [info]: verify flag is 2
+2023-03-14 22:02:54.804475 [info]: 开始登录校验, m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/www/html/CGISQL.cgi
+2023-03-14 22:02:54.804475 [info]: 开始登录校验, m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/www/html/CGISQL.cgi
+2023-03-14 22:02:54.911138 [info]: 父进程等待子进程结果
+2023-03-14 22:02:55.278641 [error]: 管道read error: ret=0
+2023-03-14 22:03:02.561884 [info]: Adjust timer once
+2023-03-14 22:03:54.895967 [info]: SIGALRM reach here
+2023-03-14 22:03:54.896059 [info]: Timed out
+2023-03-14 22:06:20.333113 [info]: ----------------Web Server Start!----------------
+2023-03-14 22:06:31.182716 [info]: Do request: url = /index.html
+2023-03-14 22:06:31.183317 [info]: Adjust timer once
+2023-03-14 22:06:56.519500 [info]: Do request: url = /1
+2023-03-14 22:06:56.519741 [info]: Adjust timer once
+2023-03-14 22:07:11.755418 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 22:07:11.755506 [info]: verify flag is 2
+2023-03-14 22:07:11.755514 [info]: 开始登录校验, m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/www/html/CGISQL.cgi
+2023-03-14 22:07:11.755418 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 22:07:11.755506 [info]: verify flag is 2
+2023-03-14 22:07:11.755514 [info]: 开始登录校验, m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/www/html/CGISQL.cgi
+2023-03-14 22:07:11.759555 [info]: 父进程等待子进程结果
+2023-03-14 22:07:12.017261 [error]: 管道read error: ret=0
+2023-03-14 22:07:12.017619 [info]: Adjust timer once
+2023-03-14 22:07:18.738961 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 22:07:18.739699 [info]: Adjust timer once
+2023-03-14 22:08:00.338836 [info]: SIGALRM reach here
+2023-03-14 22:08:00.338941 [info]: Timed out
+2023-03-14 22:10:25.485911 [info]: ----------------Web Server Start!----------------
+2023-03-14 22:10:29.446897 [info]: Do request: url = /index.html
+2023-03-14 22:10:29.447511 [info]: Adjust timer once
+2023-03-14 22:10:30.845963 [info]: Do request: url = /1
+2023-03-14 22:10:30.846622 [info]: Adjust timer once
+2023-03-14 22:10:32.023783 [info]: Do request: url = /2CGISQL.cgi
+2023-03-14 22:10:32.023877 [info]: verify flag is 2
+2023-03-14 22:10:32.023885 [info]: 开始登录校验, m_real_file = /home/kingbob/projects/linux-network-programming/codes/webserver/www/html/CGISQL.cgi

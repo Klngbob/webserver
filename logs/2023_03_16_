@@ -1,0 +1,1124 @@
+2023-03-16 16:34:20.505824 [info]: ----------------Web Server Start!----------------
+2023-03-16 16:34:20.505852 [info]: Log Start Success!
+2023-03-16 16:34:20.507678 [info]: Thread Pool Start Success!
+2023-03-16 16:34:20.749354 [info]: MySQL Connection Pool Start Success!
+2023-03-16 16:34:25.750444 [info]: Timed out
+2023-03-16 16:34:30.751581 [info]: Timed out
+2023-03-16 16:34:35.010568 [info]: Got 1 http line: GET / HTTP/1.1
+2023-03-16 16:34:35.010639 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:34:35.010646 [info]: Got 1 http line: User-Agent: curl/7.68.0
+2023-03-16 16:34:35.010648 [info]: Oop! Unknown header User-Agent: curl/7.68.0
+
+2023-03-16 16:34:35.010650 [info]: Got 1 http line: Accept: */*
+2023-03-16 16:34:35.010652 [info]: Oop! Unknown header Accept: */*
+
+2023-03-16 16:34:35.010654 [info]: Got 1 http line: 
+2023-03-16 16:34:35.013226 [info]: close fd 16
+
+2023-03-16 16:37:25.108413 [info]: ----------------Web Server Start!----------------
+2023-03-16 16:37:25.108435 [info]: Log Start Success!
+2023-03-16 16:37:25.109020 [info]: Thread Pool Start Success!
+2023-03-16 16:37:25.169600 [info]: MySQL Connection Pool Start Success!
+2023-03-16 16:37:29.120305 [info]: Got 1 http line: GET / HTTP/1.1
+2023-03-16 16:37:29.120387 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:37:29.120417 [info]: Got 1 http line: User-Agent: curl/7.68.0
+2023-03-16 16:37:29.120419 [info]: Oop! Unknown header User-Agent: curl/7.68.0
+
+2023-03-16 16:37:29.120421 [info]: Got 1 http line: Accept: */*
+2023-03-16 16:37:29.120423 [info]: Oop! Unknown header Accept: */*
+
+2023-03-16 16:37:29.120425 [info]: Got 1 http line: 
+2023-03-16 16:37:29.120972 [info]: close fd 16
+
+2023-03-16 16:37:32.117328 [info]: Got 1 http line: GET /img.jpg HTTP/1.1
+2023-03-16 16:37:32.117394 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:37:32.117401 [info]: Got 1 http line: User-Agent: curl/7.68.0
+2023-03-16 16:37:32.117403 [info]: Oop! Unknown header User-Agent: curl/7.68.0
+
+2023-03-16 16:37:32.117405 [info]: Got 1 http line: Accept: */*
+2023-03-16 16:37:32.117407 [info]: Oop! Unknown header Accept: */*
+
+2023-03-16 16:37:32.117408 [info]: Got 1 http line: 
+2023-03-16 16:37:32.121933 [info]: close fd 16
+
+2023-03-16 16:44:50.738194 [info]: ----------------Web Server Start!----------------
+2023-03-16 16:44:50.738208 [info]: Log Start Success!
+2023-03-16 16:44:50.739662 [info]: Thread Pool Start Success!
+2023-03-16 16:44:50.795756 [info]: MySQL Connection Pool Start Success!
+2023-03-16 16:44:53.560591 [info]: Got 1 http line: GET / HTTP/1.1
+2023-03-16 16:44:53.560669 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:44:53.560677 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:44:53.560698 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:44:53.560703 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:44:53.560706 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:44:53.560707 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:53.560713 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:53.560715 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:53.560718 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:53.560720 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:53.560722 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:44:53.560724 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:44:53.560725 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:44:53.560727 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:44:53.560729 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:44:53.560730 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:44:53.560733 [info]: Got 1 http line: Sec-Fetch-Site: none
+2023-03-16 16:44:53.560903 [info]: Oop! Unknown header Sec-Fetch-Site: none
+
+2023-03-16 16:44:53.560910 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:44:53.560913 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:44:53.560915 [info]: Got 1 http line: 
+2023-03-16 16:44:53.561148 [info]: Response Success!
+2023-03-16 16:44:53.561174 [info]: Adjust timer once
+2023-03-16 16:44:53.824986 [info]: Got 1 http line: GET /favicon.ico HTTP/1.1
+2023-03-16 16:44:53.825054 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:44:53.825069 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:44:53.825074 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:44:53.825077 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:44:53.825079 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:44:53.825080 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:53.825082 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:53.825106 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:53.825112 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:53.825115 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:53.825117 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/
+2023-03-16 16:44:53.825119 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/
+
+2023-03-16 16:44:53.825121 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:44:53.825123 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:44:53.825126 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:44:53.825128 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:44:53.825130 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:44:53.825132 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:44:53.825134 [info]: Got 1 http line: 
+2023-03-16 16:44:53.825689 [info]: Response Success!
+2023-03-16 16:44:53.825756 [info]: Adjust timer once
+2023-03-16 16:44:53.825886 [error]: Event Error close 16
+2023-03-16 16:44:53.826156 [info]: close fd 16
+
+2023-03-16 16:44:54.964703 [info]: Got 1 http line: POST /1 HTTP/1.1
+2023-03-16 16:44:54.964770 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:44:54.964779 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:44:54.964782 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:44:54.964784 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:44:54.964786 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:44:54.964787 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:54.964794 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:54.964797 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:54.964799 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:54.964801 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:44:54.964802 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:44:54.964804 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:44:54.964820 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:44:54.964874 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:44:54.964878 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:54.964880 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/
+2023-03-16 16:44:54.964882 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/
+
+2023-03-16 16:44:54.964884 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:44:54.964885 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:44:54.964887 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:44:54.964889 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:44:54.964892 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:44:54.964895 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:44:54.964897 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:44:54.964898 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:44:54.964900 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:44:54.964902 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:44:54.964904 [info]: Got 1 http line: 
+2023-03-16 16:44:54.965085 [info]: Response Success!
+2023-03-16 16:44:54.965144 [info]: Adjust timer once
+2023-03-16 16:44:58.012009 [info]: Got 1 http line: POST /2CGISQL.cgi HTTP/1.1
+2023-03-16 16:44:58.012134 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:44:58.012143 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:44:58.012145 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:44:58.012148 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:44:58.012161 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:44:58.012164 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:58.012166 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:58.012171 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:58.012173 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:58.012176 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:44:58.012178 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:44:58.012180 [info]: Got 1 http line: Content-Length: 25
+2023-03-16 16:44:58.012183 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:44:58.012185 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:44:58.012186 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:58.012188 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/1
+2023-03-16 16:44:58.012190 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/1
+
+2023-03-16 16:44:58.012193 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:44:58.012195 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:44:58.012197 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:44:58.012199 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:44:58.012200 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:44:58.012202 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:44:58.012204 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:44:58.012205 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:44:58.012208 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:44:58.012210 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:44:58.012212 [info]: Got 1 http line: 
+2023-03-16 16:44:58.012214 [info]: Got 1 http line: user=bobo&password=123123
+2023-03-16 16:44:58.012148 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:44:58.012161 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:44:58.012164 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:58.012166 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:58.012171 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:58.012173 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:58.012176 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:44:58.012178 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:44:58.012180 [info]: Got 1 http line: Content-Length: 25
+2023-03-16 16:44:58.012183 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:44:58.012185 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:44:58.012186 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:58.012188 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/1
+2023-03-16 16:44:58.012190 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/1
+
+2023-03-16 16:44:58.012193 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:44:58.012195 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:44:58.012197 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:44:58.012199 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:44:58.012200 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:44:58.012202 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:44:58.012204 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:44:58.012205 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:44:58.012208 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:44:58.012210 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:44:58.012212 [info]: Got 1 http line: 
+2023-03-16 16:44:58.012214 [info]: Got 1 http line: user=bobo&password=123123
+2023-03-16 16:44:58.012509 [info]: 父进程等待子进程结果
+2023-03-16 16:44:58.016334 [info]: 登录检测
+2023-03-16 16:44:58.016701 [info]: Response Success!
+2023-03-16 16:44:58.016729 [info]: Adjust timer once
+2023-03-16 16:44:59.225273 [info]: Got 1 http line: POST /5 HTTP/1.1
+2023-03-16 16:44:59.225393 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:44:59.225401 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:44:59.225403 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:44:59.225405 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:44:59.225426 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:44:59.225428 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:59.225435 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:59.225482 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:59.225491 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:59.225494 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:44:59.225501 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:44:59.225504 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:44:59.225506 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:44:59.225508 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:44:59.225510 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:59.225512 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:44:59.225531 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:44:59.225534 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:44:59.225536 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:44:59.225581 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:44:59.225587 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:44:59.225590 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:44:59.225591 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:44:59.225593 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:44:59.225595 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:44:59.225598 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:44:59.225600 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:44:59.225602 [info]: Got 1 http line: 
+2023-03-16 16:44:59.225964 [info]: Response Success!
+2023-03-16 16:44:59.225998 [info]: Adjust timer once
+2023-03-16 16:44:59.318340 [info]: Got 1 http line: GET /img.jpg HTTP/1.1
+2023-03-16 16:44:59.318409 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:44:59.318416 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:44:59.318419 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:44:59.318420 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:44:59.318422 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:44:59.318424 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:44:59.318426 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:44:59.318433 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:44:59.318436 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:44:59.318438 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:44:59.318440 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/5
+2023-03-16 16:44:59.318441 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/5
+
+2023-03-16 16:44:59.318443 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:44:59.318445 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:44:59.318448 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:44:59.318450 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:44:59.318452 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:44:59.318454 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:44:59.318456 [info]: Got 1 http line: 
+2023-03-16 16:44:59.323645 [info]: Response Success!
+2023-03-16 16:44:59.323711 [info]: Adjust timer once
+2023-03-16 16:45:06.428630 [info]: Got 1 http line: POST /6 HTTP/1.1
+2023-03-16 16:45:06.428705 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:06.428713 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:06.428715 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:06.428717 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:06.428719 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:06.428721 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:06.428726 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:06.428729 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:06.428731 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:06.428733 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:06.428735 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:06.428737 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:45:06.428739 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:06.428741 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:06.428744 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:06.428746 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:45:06.428748 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:45:06.428750 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:06.428752 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:06.428754 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:06.428889 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:06.428896 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:06.428899 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:06.428901 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:06.428903 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:06.428905 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:06.428908 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:06.428910 [info]: Got 1 http line: 
+2023-03-16 16:45:06.429110 [info]: Response Success!
+2023-03-16 16:45:06.429136 [info]: Adjust timer once
+2023-03-16 16:45:07.008147 [info]: Got 1 http line: GET /Ikun.mp4 HTTP/1.1
+2023-03-16 16:45:07.008201 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:07.008207 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:07.008210 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:07.008212 [info]: Got 1 http line: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2023-03-16 16:45:07.008214 [info]: Oop! Unknown header Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+
+2023-03-16 16:45:07.008216 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:07.008218 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:07.008224 [info]: Got 1 http line: Range: bytes=0-
+2023-03-16 16:45:07.008228 [info]: Oop! Unknown header Range: bytes=0-
+
+2023-03-16 16:45:07.008230 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:07.008232 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/6
+2023-03-16 16:45:07.008234 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/6
+
+2023-03-16 16:45:07.008235 [info]: Got 1 http line: Sec-Fetch-Dest: video
+2023-03-16 16:45:07.008237 [info]: Oop! Unknown header Sec-Fetch-Dest: video
+
+2023-03-16 16:45:07.008356 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:45:07.008360 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:45:07.008362 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:07.008364 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:07.008365 [info]: Got 1 http line: Accept-Encoding: identity
+2023-03-16 16:45:07.008367 [info]: Oop! Unknown header Accept-Encoding: identity
+
+2023-03-16 16:45:07.008369 [info]: Got 1 http line: 
+2023-03-16 16:45:07.218273 [info]: Response Success!
+2023-03-16 16:45:07.218404 [info]: Adjust timer once
+2023-03-16 16:45:10.796425 [info]: Timed out
+2023-03-16 16:45:10.796458 [info]: timer tick
+2023-03-16 16:45:14.824497 [info]: Got 1 http line: POST /7 HTTP/1.1
+2023-03-16 16:45:14.824564 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:14.824571 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:14.824674 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:14.824700 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:14.824715 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:14.824738 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:14.824740 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:14.824742 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:14.824744 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:14.824746 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:14.824749 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:14.824751 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:45:14.824980 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:14.825005 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:14.825007 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:14.825009 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:45:14.825027 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:45:14.825029 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:14.825031 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:14.825034 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:14.825039 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:14.825041 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:14.825043 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:14.825045 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:14.825159 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:14.825166 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:14.825169 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:14.825171 [info]: Got 1 http line: 
+2023-03-16 16:45:14.825528 [info]: Response Success!
+2023-03-16 16:45:14.825569 [info]: Adjust timer once
+2023-03-16 16:45:14.890073 [info]: Got 1 http line: GET /img2.jpg HTTP/1.1
+2023-03-16 16:45:14.890138 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:14.890146 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:14.890148 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:14.890150 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:45:14.890152 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:45:14.890154 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:14.890156 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:14.890159 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:14.890161 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:14.890163 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:14.890165 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/7
+2023-03-16 16:45:14.890167 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/7
+
+2023-03-16 16:45:14.890169 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:45:14.890170 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:45:14.890172 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:45:14.890175 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:45:14.890178 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:14.890179 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:14.890181 [info]: Got 1 http line: 
+2023-03-16 16:45:15.025471 [info]: Response Success!
+2023-03-16 16:45:15.025557 [info]: Adjust timer once
+2023-03-16 16:45:21.788534 [info]: Got 1 http line: GET / HTTP/1.1
+2023-03-16 16:45:21.788608 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:21.788616 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:21.788619 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:21.788621 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:21.788623 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:21.788625 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:21.788626 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:21.788630 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:21.788632 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:21.788634 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:21.788636 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:21.788642 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:21.788644 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:21.788646 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:21.788649 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:21.788651 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:21.788653 [info]: Got 1 http line: Sec-Fetch-Site: none
+2023-03-16 16:45:21.788655 [info]: Oop! Unknown header Sec-Fetch-Site: none
+
+2023-03-16 16:45:21.788657 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:21.788659 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:21.788661 [info]: Got 1 http line: 
+2023-03-16 16:45:21.788769 [info]: Response Success!
+2023-03-16 16:45:21.788821 [info]: Adjust timer once
+2023-03-16 16:45:23.099535 [info]: Got 1 http line: POST /1 HTTP/1.1
+2023-03-16 16:45:23.099592 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:23.099600 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:23.099603 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:23.099605 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:23.099607 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:23.099609 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:23.099611 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:23.099613 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:23.099616 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:23.099650 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:23.099657 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:23.099660 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:45:23.099662 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:23.099664 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:23.099666 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:23.099668 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/
+2023-03-16 16:45:23.099672 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/
+
+2023-03-16 16:45:23.099674 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:23.099676 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:23.099678 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:23.099680 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:23.099682 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:23.099684 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:23.099685 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:23.099689 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:23.099691 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:23.099693 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:23.099695 [info]: Got 1 http line: 
+2023-03-16 16:45:23.100168 [info]: Response Success!
+2023-03-16 16:45:23.100245 [info]: Adjust timer once
+2023-03-16 16:45:27.020589 [info]: Got 1 http line: POST /2CGISQL.cgi HTTP/1.1
+2023-03-16 16:45:27.020677 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:27.020737 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:27.020740 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:27.020742 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:27.020744 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:27.020745 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:27.020747 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:27.020749 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:27.020752 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:27.020754 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:27.020756 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:27.020764 [info]: Got 1 http line: Content-Length: 20
+2023-03-16 16:45:27.020767 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:27.020769 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:27.020770 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:27.020774 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/1
+2023-03-16 16:45:27.020776 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/1
+
+2023-03-16 16:45:27.020777 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:27.020779 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:27.020781 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:27.020783 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:27.020784 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:27.020786 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:27.020789 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:27.020791 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:27.020793 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:27.020795 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:27.020796 [info]: Got 1 http line: 
+2023-03-16 16:45:27.020798 [info]: Got 1 http line: user=bobo&password=5
+2023-03-16 16:45:27.020589 [info]: Got 1 http line: POST /2CGISQL.cgi HTTP/1.1
+2023-03-16 16:45:27.020677 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:27.020737 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:27.020740 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:27.020742 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:27.020744 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:27.020745 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:27.020747 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:27.020749 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:27.020752 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:27.020754 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:27.020756 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:27.020764 [info]: Got 1 http line: Content-Length: 20
+2023-03-16 16:45:27.020767 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:27.020769 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:27.020770 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:27.020774 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/1
+2023-03-16 16:45:27.020776 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/1
+
+2023-03-16 16:45:27.020777 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:27.020779 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:27.020781 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:27.020783 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:27.020784 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:27.020786 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:27.020789 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:27.020791 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:27.020793 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:27.020795 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:27.020796 [info]: Got 1 http line: 
+2023-03-16 16:45:27.020798 [info]: Got 1 http line: user=bobo&password=5
+2023-03-16 16:45:27.021177 [info]: 父进程等待子进程结果
+2023-03-16 16:45:27.025948 [info]: 登录检测
+2023-03-16 16:45:27.026165 [info]: Response Success!
+2023-03-16 16:45:27.026208 [info]: Adjust timer once
+2023-03-16 16:45:27.080853 [info]: Got 1 http line: GET /error.jpg HTTP/1.1
+2023-03-16 16:45:27.080925 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:27.080933 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:27.080936 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:27.080938 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:45:27.080940 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:45:27.080942 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:27.080945 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:27.080947 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:27.080949 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:27.080951 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:27.080953 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:45:27.080955 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:45:27.080957 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:45:27.080958 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:45:27.080965 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:45:27.080967 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:45:27.080969 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:27.080971 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:27.080972 [info]: Got 1 http line: 
+2023-03-16 16:45:27.081209 [info]: Response Success!
+2023-03-16 16:45:27.081236 [info]: Adjust timer once
+2023-03-16 16:45:30.796537 [info]: Timed out
+2023-03-16 16:45:30.796600 [info]: timer tick
+2023-03-16 16:45:31.123682 [info]: Got 1 http line: POST /0 HTTP/1.1
+2023-03-16 16:45:31.123731 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:31.123752 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:31.123777 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:31.123779 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:31.123781 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:31.123783 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:31.123818 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:31.123825 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:31.123828 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:31.123830 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:31.123832 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:31.123838 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:45:31.123842 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:31.123845 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:31.123847 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:31.123849 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/
+2023-03-16 16:45:31.123850 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/
+
+2023-03-16 16:45:31.123852 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:31.123854 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:31.123856 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:31.123859 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:31.123861 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:31.123863 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:31.123865 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:31.123866 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:31.123868 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:31.123870 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:31.123872 [info]: Got 1 http line: 
+2023-03-16 16:45:31.124136 [info]: Response Success!
+2023-03-16 16:45:31.124193 [info]: Adjust timer once
+2023-03-16 16:45:34.608753 [info]: Got 1 http line: POST /3CGISQL.cgi HTTP/1.1
+2023-03-16 16:45:34.608829 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:34.608836 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:34.608838 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:34.608840 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:45:34.608842 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:45:34.608843 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:34.608845 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:34.608848 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:34.608850 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:34.608852 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:45:34.608854 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:45:34.608856 [info]: Got 1 http line: Content-Length: 25
+2023-03-16 16:45:34.608858 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:45:34.608860 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:45:34.608861 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:34.608864 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/0
+2023-03-16 16:45:34.608866 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/0
+
+2023-03-16 16:45:34.608868 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:45:34.608870 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:45:34.608872 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:45:34.608878 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:45:34.608880 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:45:34.608883 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:45:34.608885 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:34.608887 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:34.608888 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:45:34.608890 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:45:34.608892 [info]: Got 1 http line: 
+2023-03-16 16:45:34.608894 [info]: Got 1 http line: user=bobo&password=123123
+2023-03-16 16:45:34.609557 [info]: Response Success!
+2023-03-16 16:45:34.609588 [info]: Adjust timer once
+2023-03-16 16:45:34.663877 [info]: Got 1 http line: GET /error.jpg HTTP/1.1
+2023-03-16 16:45:34.663937 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:45:34.663954 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:45:34.663970 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:45:34.663973 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:45:34.663975 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:45:34.663979 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:45:34.663982 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:45:34.663984 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:45:34.663985 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:45:34.663987 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:45:34.663989 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/3CGISQL.cgi
+2023-03-16 16:45:34.663991 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/3CGISQL.cgi
+
+2023-03-16 16:45:34.663992 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:45:34.663995 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:45:34.664019 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:45:34.664025 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:45:34.664027 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:45:34.664029 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:45:34.664031 [info]: Got 1 http line: 
+2023-03-16 16:45:34.664140 [info]: Response Success!
+2023-03-16 16:45:34.664160 [info]: Adjust timer once
+2023-03-16 16:45:50.796769 [info]: Timed out
+2023-03-16 16:45:50.796853 [info]: timer tick
+2023-03-16 16:46:03.204856 [info]: Got 1 http line: GET / HTTP/1.1
+2023-03-16 16:46:03.204928 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:03.204935 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:03.204938 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:03.204940 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:46:03.204946 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:46:03.204947 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:03.204951 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:03.204953 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:03.204955 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:03.204956 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:03.204958 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:46:03.204960 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:46:03.204962 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:46:03.204964 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:46:03.204967 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:46:03.204969 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:46:03.204970 [info]: Got 1 http line: Sec-Fetch-Site: none
+2023-03-16 16:46:03.204972 [info]: Oop! Unknown header Sec-Fetch-Site: none
+
+2023-03-16 16:46:03.204974 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:46:03.204976 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:46:03.204977 [info]: Got 1 http line: 
+2023-03-16 16:46:03.205462 [info]: Response Success!
+2023-03-16 16:46:03.205472 [info]: Adjust timer once
+2023-03-16 16:46:04.681562 [info]: Got 1 http line: POST /1 HTTP/1.1
+2023-03-16 16:46:04.681649 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:04.681657 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:04.681660 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:04.681688 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:46:04.681694 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:46:04.681697 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:04.681699 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:04.681704 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:04.681707 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:04.681721 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:46:04.681725 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:46:04.681728 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:46:04.681731 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:46:04.681733 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:46:04.681734 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:04.681736 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/
+2023-03-16 16:46:04.681738 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/
+
+2023-03-16 16:46:04.681740 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:46:04.681741 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:46:04.681744 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:46:04.681746 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:46:04.681748 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:46:04.681750 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:46:04.681752 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:04.681753 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:04.681755 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:46:04.681757 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:46:04.681760 [info]: Got 1 http line: 
+2023-03-16 16:46:04.681898 [info]: Response Success!
+2023-03-16 16:46:04.681951 [info]: Adjust timer once
+2023-03-16 16:46:08.342296 [info]: Got 1 http line: POST /2CGISQL.cgi HTTP/1.1
+2023-03-16 16:46:08.342390 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:08.342413 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:08.342415 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:08.342418 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:46:08.342419 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:46:08.342439 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:08.342441 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:08.342446 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:08.342448 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:08.342450 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:46:08.342452 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:46:08.342453 [info]: Got 1 http line: Content-Length: 21
+2023-03-16 16:46:08.342456 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:46:08.342458 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:46:08.342460 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:08.342463 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/1
+2023-03-16 16:46:08.342483 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/1
+
+2023-03-16 16:46:08.342485 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:46:08.342487 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:46:08.342505 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:46:08.342527 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:46:08.342529 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:46:08.342551 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:46:08.342553 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:08.342555 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:08.342557 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:46:08.342560 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:46:08.342579 [info]: Got 1 http line: 
+2023-03-16 16:46:08.342581 [info]: Got 1 http line: user=lll&password=123
+2023-03-16 16:46:08.344431 [info]: 父进程等待子进程结果
+2023-03-16 16:46:08.348266 [info]: 登录检测
+2023-03-16 16:46:08.348675 [info]: Response Success!
+2023-03-16 16:46:08.348734 [info]: Adjust timer once
+2023-03-16 16:46:09.068684 [info]: Got 1 http line: POST /6 HTTP/1.1
+2023-03-16 16:46:09.068752 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:09.068760 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:09.068762 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:09.068764 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:46:09.068766 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:46:09.068789 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:09.068795 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:09.068799 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:09.068801 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:09.068803 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:46:09.068805 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:46:09.068808 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:46:09.068811 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:46:09.068812 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:46:09.068814 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:09.068816 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:46:09.068818 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:46:09.068819 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:46:09.068825 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:46:09.068839 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:46:09.068844 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:46:09.068846 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:46:09.068848 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:46:09.068850 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:09.068852 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:09.068855 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:46:09.068857 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:46:09.068877 [info]: Got 1 http line: 
+2023-03-16 16:46:09.069083 [info]: Response Success!
+2023-03-16 16:46:09.069132 [info]: Adjust timer once
+2023-03-16 16:46:09.240577 [info]: Got 1 http line: GET /Ikun.mp4 HTTP/1.1
+2023-03-16 16:46:09.240650 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:09.240697 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:09.240723 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:09.240751 [info]: Got 1 http line: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2023-03-16 16:46:09.240756 [info]: Oop! Unknown header Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+
+2023-03-16 16:46:09.240805 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:09.240845 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:09.240896 [info]: Got 1 http line: Range: bytes=0-
+2023-03-16 16:46:09.241087 [info]: Oop! Unknown header Range: bytes=0-
+
+2023-03-16 16:46:09.241094 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:09.241097 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/6
+2023-03-16 16:46:09.241099 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/6
+
+2023-03-16 16:46:09.241101 [info]: Got 1 http line: Sec-Fetch-Dest: video
+2023-03-16 16:46:09.241103 [info]: Oop! Unknown header Sec-Fetch-Dest: video
+
+2023-03-16 16:46:09.241106 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:46:09.241108 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:46:09.241110 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:09.241112 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:09.241114 [info]: Got 1 http line: Accept-Encoding: identity
+2023-03-16 16:46:09.241116 [info]: Oop! Unknown header Accept-Encoding: identity
+
+2023-03-16 16:46:09.241117 [info]: Got 1 http line: 
+2023-03-16 16:46:09.352268 [info]: Response Success!
+2023-03-16 16:46:09.352441 [info]: Adjust timer once
+2023-03-16 16:46:10.797089 [info]: Timed out
+2023-03-16 16:46:10.797287 [info]: timer tick
+2023-03-16 16:46:11.233361 [info]: Got 1 http line: POST /5 HTTP/1.1
+2023-03-16 16:46:11.233414 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:11.233418 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:11.233420 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:11.233422 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:46:11.233425 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:46:11.233428 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:11.233429 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:11.233433 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:11.233434 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:11.233436 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:46:11.233438 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:46:11.233441 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:46:11.233443 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:46:11.233447 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:46:11.233449 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:11.233451 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:46:11.233452 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:46:11.233454 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:46:11.233457 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:46:11.233459 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:46:11.233461 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:46:11.233468 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:46:11.233470 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:46:11.233471 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:11.233473 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:11.233476 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:46:11.233478 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:46:11.233480 [info]: Got 1 http line: 
+2023-03-16 16:46:11.233660 [info]: Response Success!
+2023-03-16 16:46:11.233688 [info]: Adjust timer once
+2023-03-16 16:46:11.301808 [info]: Got 1 http line: GET /img.jpg HTTP/1.1
+2023-03-16 16:46:11.301868 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:11.301875 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:11.301877 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:11.301879 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:46:11.301881 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:46:11.301884 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:11.301888 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:11.301890 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:11.301891 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:11.301893 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:11.301895 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/5
+2023-03-16 16:46:11.301897 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/5
+
+2023-03-16 16:46:11.301898 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:46:11.301901 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:46:11.301903 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:46:11.301905 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:46:11.301907 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:11.301908 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:11.301910 [info]: Got 1 http line: 
+2023-03-16 16:46:11.302131 [info]: Response Success!
+2023-03-16 16:46:11.302190 [info]: Adjust timer once
+2023-03-16 16:46:12.992007 [info]: Got 1 http line: POST /7 HTTP/1.1
+2023-03-16 16:46:12.992095 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:12.992118 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:12.992120 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:12.992139 [info]: Got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-03-16 16:46:12.992141 [info]: Oop! Unknown header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+2023-03-16 16:46:12.992142 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:12.992144 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:12.992168 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:12.992178 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:12.992192 [info]: Got 1 http line: Content-Type: application/x-www-form-urlencoded
+2023-03-16 16:46:12.992243 [info]: Oop! Unknown header Content-Type: application/x-www-form-urlencoded
+
+2023-03-16 16:46:12.992249 [info]: Got 1 http line: Content-Length: 0
+2023-03-16 16:46:12.992252 [info]: Got 1 http line: Origin: http://127.0.0.1:12345
+2023-03-16 16:46:12.992254 [info]: Oop! Unknown header Origin: http://127.0.0.1:12345
+
+2023-03-16 16:46:12.992256 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:12.992258 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/2CGISQL.cgi
+2023-03-16 16:46:12.992261 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/2CGISQL.cgi
+
+2023-03-16 16:46:12.992263 [info]: Got 1 http line: Upgrade-Insecure-Requests: 1
+2023-03-16 16:46:12.992283 [info]: Oop! Unknown header Upgrade-Insecure-Requests: 1
+
+2023-03-16 16:46:12.992285 [info]: Got 1 http line: Sec-Fetch-Dest: document
+2023-03-16 16:46:12.992286 [info]: Oop! Unknown header Sec-Fetch-Dest: document
+
+2023-03-16 16:46:12.992288 [info]: Got 1 http line: Sec-Fetch-Mode: navigate
+2023-03-16 16:46:12.992290 [info]: Oop! Unknown header Sec-Fetch-Mode: navigate
+
+2023-03-16 16:46:12.992291 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:12.992294 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:12.992296 [info]: Got 1 http line: Sec-Fetch-User: ?1
+2023-03-16 16:46:12.992298 [info]: Oop! Unknown header Sec-Fetch-User: ?1
+
+2023-03-16 16:46:12.992300 [info]: Got 1 http line: 
+2023-03-16 16:46:12.992630 [info]: Response Success!
+2023-03-16 16:46:12.992724 [info]: Adjust timer once
+2023-03-16 16:46:13.077612 [info]: Got 1 http line: GET /img2.jpg HTTP/1.1
+2023-03-16 16:46:13.077691 [info]: Got 1 http line: Host: 127.0.0.1:12345
+2023-03-16 16:46:13.077712 [info]: Got 1 http line: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+2023-03-16 16:46:13.077719 [info]: Oop! Unknown header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+2023-03-16 16:46:13.077721 [info]: Got 1 http line: Accept: image/avif,image/webp,*/*
+2023-03-16 16:46:13.077723 [info]: Oop! Unknown header Accept: image/avif,image/webp,*/*
+
+2023-03-16 16:46:13.077725 [info]: Got 1 http line: Accept-Language: en-US,en;q=0.5
+2023-03-16 16:46:13.077727 [info]: Oop! Unknown header Accept-Language: en-US,en;q=0.5
+
+2023-03-16 16:46:13.077730 [info]: Got 1 http line: Accept-Encoding: gzip, deflate, br
+2023-03-16 16:46:13.077788 [info]: Oop! Unknown header Accept-Encoding: gzip, deflate, br
+
+2023-03-16 16:46:13.077792 [info]: Got 1 http line: Connection: keep-alive
+2023-03-16 16:46:13.077795 [info]: Got 1 http line: Referer: http://127.0.0.1:12345/7
+2023-03-16 16:46:13.077796 [info]: Oop! Unknown header Referer: http://127.0.0.1:12345/7
+
+2023-03-16 16:46:13.077798 [info]: Got 1 http line: Sec-Fetch-Dest: image
+2023-03-16 16:46:13.077800 [info]: Oop! Unknown header Sec-Fetch-Dest: image
+
+2023-03-16 16:46:13.077802 [info]: Got 1 http line: Sec-Fetch-Mode: no-cors
+2023-03-16 16:46:13.077804 [info]: Oop! Unknown header Sec-Fetch-Mode: no-cors
+
+2023-03-16 16:46:13.077807 [info]: Got 1 http line: Sec-Fetch-Site: same-origin
+2023-03-16 16:46:13.077809 [info]: Oop! Unknown header Sec-Fetch-Site: same-origin
+
+2023-03-16 16:46:13.077811 [info]: Got 1 http line: 
+2023-03-16 16:46:13.113007 [info]: Response Success!
+2023-03-16 16:46:13.113160 [info]: Adjust timer once

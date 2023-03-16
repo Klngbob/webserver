@@ -1,0 +1,13 @@
+socket_port: 12345      # socket连接端口
+
+database_url: localhost # 数据库连接ip
+database_user: root     # 数据库连接用户
+database_password: 123  # 数据库密码
+database_port: 3306     # 数据库连接端口
+database_name: webserver    # 数据库名
+
+max_sql_conntions: 8   # 数据库连接池最大连接数
+
+max_thread_nums: 8      # 线程池最大容量
+
+close_log: 0            # 是否关闭日志系统
